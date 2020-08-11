@@ -12,17 +12,15 @@
   - Filtrar por matéria, dia da semana e horário;
 
 
-# Executando pela primeira vez
-
-## Instalação dos módulos utilizados pelo projeto
+### Instalação dos módulos utilizados pelo projeto
 
 yarn
 
-## Criação do banco de dados
+### Criação do banco de dados
 
 yarn knex:migrate
 
-## Criação do banco de dados
+### Execução da aplicação
 
 yarn start
 
